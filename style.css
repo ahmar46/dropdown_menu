@@ -40,8 +40,8 @@ body {
     white-space:nowrap;
   }
   .option:hover {
-    background: #00ffd3;
-    color: #333;
+    background: #c00000;
+    color: #fff;
   }
   .select:focus .option {
     position:relative;
