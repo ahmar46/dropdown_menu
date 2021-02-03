@@ -1,4 +1,4 @@
-### This is nice look
+### This is nice looking
 
 ### Technologies Used - HTML & CSS.
 
