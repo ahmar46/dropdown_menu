@@ -1,4 +1,4 @@
-### This Dropdown Menu is created for my Instagram Page @electrifying_codes.
+### This
 
 ### Technologies Used - HTML & CSS.
 
