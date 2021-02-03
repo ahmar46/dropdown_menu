@@ -1,4 +1,4 @@
-### This is nice looking Drop
+### This is nice looking Dropdown
 
 ### Technologies Used - HTML & CSS.
 
